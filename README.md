@@ -76,9 +76,8 @@
 
 ---
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/carlos-augusto-carneiro/count.svg" /></p> 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-Loading...-FF0000?style=for-the-badge&logo=github" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
